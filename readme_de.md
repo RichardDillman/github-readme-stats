@@ -1,21 +1,21 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> 
+ <img width="100px" src="https://res.cloudinary.com/richarddillman/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> 
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Zeige dynamisch generierte GitHub-Statistiken in deinen Readmes!</p>
 </p>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/richarddillman/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/richarddillman/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/richarddillman/github-readme-stats">
+      <img src="https://codecov.io/gh/richarddillman/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/richarddillman/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/richarddillman/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/richarddillman/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/richarddillman/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -30,12 +30,12 @@
   <p align="center">
     <a href="#alle-beispiele">Beispiel ansehen</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">Fehler melden</a>
+    <a href="https://github.com/richarddillman/github-readme-stats/issues">Fehler melden</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">Funktionalität anfragen</a>
+    <a href="https://github.com/richarddillman/github-readme-stats/issues">Funktionalität anfragen</a>
   </p>
 </p>
-<p align="center">Du magst das Projekt? Wie wäre es mit einer kleinen <a href="https://www.paypal.me/anuraghazra">Spende</a> um es weiterhin am Leben zu erhalten?
+<p align="center">Du magst das Projekt? Wie wäre es mit einer kleinen <a href="https://www.paypal.me/richarddillman">Spende</a> um es weiterhin am Leben zu erhalten?
 
 # Funktionalitäten
 
@@ -53,7 +53,7 @@ Kopiere einfach folgendes in dein Markdown und das wars. Echt simpel!
 Passe den Wert des URL-Paramters `?username=` so an, dass dort dein GitHub Username steht.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 _Hinweis: Die Berechnung des Ranges basiert auf den jeweiligen Benutzerstatistiken, siehe [src/calculateRank.js](./src/calculateRank.js)_
@@ -65,7 +65,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 > Optionen: `&hide=["stars","commits","prs","issues","contribs"]`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=["contribs","prs"])
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&hide=["contribs","prs"])
 ```
 
 ### Icons anzeigen
@@ -73,7 +73,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 Um Icons anzuzeigen kann der URL-Paramter `show_icons=true` wie folgt verwendet werden:
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true)
 ```
 
 ### Erscheinungsbild/Themes
@@ -83,14 +83,14 @@ Mithilfe der eingebauten Themes kann das Aussehen der Karten verändern werden o
 Benutze den `?theme=THEME_NAME`-Parameter wie folgt :-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&theme=radical)
 ```
 
 #### Alle eingebauten Themes :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/richarddillman/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 Du kannst dir eine Vorschau [aller verfügbaren Themes](./themes/README.md) ansehen oder die [theme config Datei](./themes/index.js) auschecken.
 Außerdem **kannst du neue Themes beisteuern** wenn du möchtest, contributions sind gern gesehen :D
@@ -129,19 +129,19 @@ Und Bääm! Du bist nicht mehr auf 6 pinned Repositories limitiert.
 
 Füge diesen Code in deine Readme-Datei ein und passe die Links an.
 
-Endpunkt: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpunkt: `api/pin?username=richarddillman&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 ### Beispiele
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats)](https://github.com/richarddillman/github-readme-stats)
 
 Benutze die [show_owner](#anpassungenpersonalisierung) Variable, um den Usernamen des Repo Eigentümers anzuzeigen.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&show_owner=true)](https://github.com/richarddillman/github-readme-stats)
 
 # Top Programmiersprachen Card
 
@@ -153,10 +153,10 @@ _HINWEIS: Die Top Programmiersprachen treffen keine Aussage über persönliche F
 
 Füge diesen Code in deine Readme-Datei ein und passe die Links an.
 
-Endpunkt: `api/top-langs?username=anuraghazra`
+Endpunkt: `api/top-langs?username=richarddillman`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 ### Verberge Programmiersprachen unter einem bestimmten Schwellwert
@@ -164,12 +164,12 @@ Endpunkt: `api/top-langs?username=anuraghazra`
 Benutze den `?hide_langs_below=NUMBER` URL-Parameter um Programmiersprachen unter einem bestimmten prozentualen Schwellwert auszublenden.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman&hide_langs_below=1)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 ### Beispiel
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 
 ---
 
@@ -177,33 +177,33 @@ Benutze den `?hide_langs_below=NUMBER` URL-Parameter um Programmiersprachen unte
 
 - Default
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman)
 
 - Ausblenden bestimmter Statistiken
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=["contribs","issues"])
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&hide=["contribs","issues"])
 
 - Icons anzeigen
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=["issues"]&show_icons=true)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&hide=["issues"]&show_icons=true)
 
 - Erscheinungsbild/Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&theme=radical)
 
 - Stats Card anpassen
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Richard's github stats](https://github-readme-stats.vercel.app/api/?username=richarddillman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Repo Card anpassen
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=richarddillman&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top Programmiersprachen
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 
 ---
 
@@ -212,11 +212,11 @@ Choose from any of the [default themes](#themes)
 Üblicherweise ist es in `.md`-Dateien nicht möglich Bilder nebeneinander anzuzeigen. Um dies zu erreichen kann folgender Ansatz gewählt werden:
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/richarddillman/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/richarddillman/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=convoychat" />
 </a>
 ```
 
@@ -225,9 +225,9 @@ Choose from any of the [default themes](#themes)
 Da die GitHub API nur 5tsd Aufrufe pro Stunde zulässt, kann es passieren, dass meine `https://github-readme-stats.vercel.app/api` dieses Limit erreicht.
 Wenn du es auf deinem eigenen Vercel-Server hostest, brauchst du dich darum nicht zu kümmern. Klicke auf den Deploy-Button um loszulegen!
 
-Hinweis: Seit [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) sollte es möglich sein mehr als 5tsd Aufrufe pro Stunde ohne Downtimes zu verkraften :D
+Hinweis: Seit [#58](https://github.com/richarddillman/github-readme-stats/pull/58) sollte es möglich sein mehr als 5tsd Aufrufe pro Stunde ohne Downtimes zu verkraften :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/richarddillman/github-readme-stats)
 
 <details>
  <summary>Anleitung zum Einrichten von Vercel</summary>
@@ -257,7 +257,7 @@ Dennoch, wenn Du dieses Projekt benutzt und damit zufrieden bist oder mich einfa
 
 - Erwähne und verlinke das Projekt in deiner Readme wenn du es benutzt :D
 - Geb dem Projekt einen Stern hier auf GitHub und teile es :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Du kannst einmalige Spenden via PayPal tätigen. Ich kaufe mir wahrscheinlich einen ~~Kaffee~~ Tee davon. :tea:
+- [![paypal.me/richarddillman](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/richarddillman) - Du kannst einmalige Spenden via PayPal tätigen. Ich kaufe mir wahrscheinlich einen ~~Kaffee~~ Tee davon. :tea:
 
 Vielen Dank! :heart:
 

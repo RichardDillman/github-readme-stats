@@ -114,7 +114,7 @@ describe("wrapTextMultiline", () => {
   it("should not wrap small texts", () => {
     {
       let multiLineText = wrapTextMultiline("Small text should not wrap");
-      expect(multiLineText).toEqual(["Small text should not wrap"]);
+      expect(multiLineText).toEqual(["&#83;mall text &#115;hould not wrap"]);
     }
   });
   it("should wrap large texts", () => {

@@ -7,7 +7,7 @@ const themes = require("../themes");
 
 const data_repo = {
   repository: {
-    nameWithOwner: "anuraghazra/convoychat",
+    nameWithOwner: "richarddillman/convoychat",
     name: "convoychat",
     stargazers: { totalCount: 38000 },
     description: "Help us take over the world! React + TS + GraphQL Chat App",
@@ -27,9 +27,9 @@ describe("Test renderRepoCard", () => {
     const [header] = document.getElementsByClassName("header");
 
     expect(header).toHaveTextContent("convoychat");
-    expect(header).not.toHaveTextContent("anuraghazra");
+    expect(header).not.toHaveTextContent("richarddillman");
     expect(document.getElementsByClassName("description")[0]).toHaveTextContent(
-      "Help us take over the world! React + TS + GraphQL Chat App"
+      "Help us take over the world! React + TS + GraphQLChat App"
     );
     expect(queryByTestId(document.body, "stargazers")).toHaveTextContent("38k");
     expect(queryByTestId(document.body, "forkcount")).toHaveTextContent("100");
@@ -47,7 +47,7 @@ describe("Test renderRepoCard", () => {
       show_owner: true,
     });
     expect(document.getElementsByClassName("header")[0]).toHaveTextContent(
-      "anuraghazra/convoychat"
+      "richarddillman/convoychat"
     );
   });
 
@@ -64,7 +64,7 @@ describe("Test renderRepoCard", () => {
 
     expect(
       document.getElementsByClassName("description")[0].children[1].textContent
-    ).toBe("English-language pangram—a sentence that contains all");
+    ).toBe("English-language pangram—a sentence that");
 
     // Should not trim
     document.body.innerHTML = renderRepoCard({

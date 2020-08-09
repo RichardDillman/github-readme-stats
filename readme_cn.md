@@ -1,21 +1,21 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/richarddillman/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
 </p>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/richarddillman/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/richarddillman/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/richarddillman/github-readme-stats">
+      <img src="https://codecov.io/gh/richarddillman/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/richarddillman/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/richarddillman/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/richarddillman/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/richarddillman/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -30,9 +30,9 @@
   <p align="center">
     <a href="#demo">查看 Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">报告 bug</a>
+    <a href="https://github.com/richarddillman/github-readme-stats/issues/new/choose">报告 bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">请求增加功能</a>
+    <a href="https://github.com/richarddillman/github-readme-stats/issues/new/choose">请求增加功能</a>
   </p>
   <p align="center">
     <a href="readme.md">English</a>
@@ -42,7 +42,7 @@
     <a href="readme_ja.md">日本語</a>
   </p>
 </p>
-<p align="center">喜欢这个项目？请考虑<a href="https://www.paypal.me/anuraghazra">捐赠</a>来帮助它完善！
+<p align="center">喜欢这个项目？请考虑<a href="https://www.paypal.me/richarddillman">捐赠</a>来帮助它完善！
 
 # 特性
 
@@ -60,7 +60,7 @@
 更改 `?username=` 的值为你的 GitHub 用户名。
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 _注: 排名基于用户的统计信息计算得出，详见 [src/calculateRank.js](./src/calculateRank.js)_
@@ -72,7 +72,7 @@ _注: 排名基于用户的统计信息计算得出，详见 [src/calculateRank.
 > 选项：`&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&hide=contribs,prs)
 ```
 
 ### 把私人贡献计数添加到总提交计数中
@@ -84,7 +84,7 @@ _注：如果你是自己部署本项目，私人贡献将会默认被计数，�
 > Options: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&count_private=true)
 ```
 
 ### 显示图标
@@ -92,7 +92,7 @@ _注：如果你是自己部署本项目，私人贡献将会默认被计数，�
 想要显示图标，你可以调用 `show_icons=true` 参数，如下：
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true)
 ```
 
 ### 主题
@@ -102,14 +102,14 @@ _注：如果你是自己部署本项目，私人贡献将会默认被计数，�
 调用 `?theme=THEME_NAME` 参数，如下：
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&theme=radical)
 ```
 
 #### 所有现有主题
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/richarddillman/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 在 [theme config 文件](./themes/index.js) 中查看更多主题，或者 **贡献新的主题** :D
 
@@ -149,19 +149,19 @@ GitHub 更多置顶 让你使用 README Profile，在个人页面中置顶多于
 
 复制粘贴这段代码到你的 README 文件中，并更改链接。
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=richarddillman&repo=github-readme-stats`
 
 ```md
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats)](https://github.com/richarddillman/github-readme-stats)
 
 使用 [show_owner](#自定义) 变量将 Repo 所属账户的用户名包含在内。
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&show_owner=true)](https://github.com/richarddillman/github-readme-stats)
 
 # 热门语言卡片
 
@@ -173,10 +173,10 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 
 将此代码复制粘贴到您的`README.md`文件中，并改变链接。
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=richarddillman`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 ### 隐藏特定语言
@@ -184,7 +184,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 可以使用`?hide=语言1,语言2`参数来隐藏指定的语言。
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=语言1,语言2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman&hide=语言1,语言2)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 ### 紧凑的语言卡片布局
@@ -192,16 +192,16 @@ Endpoint: `api/top-langs?username=anuraghazra`
 你可以使用 `&layout=compact` 参数来改变卡片的样式。
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman&layout=compact)](https://github.com/richarddillman/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 
 - 紧凑布局
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman&layout=compact)](https://github.com/richarddillman/github-readme-stats)
 
 ---
 
@@ -209,33 +209,33 @@ Endpoint: `api/top-langs?username=anuraghazra`
 
 - 默认
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman)
 
 - 隐藏特定数据
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&hide=contribs,issues)
 
 - 显示图标
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&hide=issues&show_icons=true)
 
 - 主题
 
 从 [默认主题](#主题) 中进行选择
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&theme=radical)
 
 - 自定义统计卡片
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Richard's github stats](https://github-readme-stats.vercel.app/api/?username=richarddillman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - 自定义代码库卡片
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=richarddillman&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 热门语言
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddillman)](https://github.com/richarddillman/github-readme-stats)
 
 ---
 
@@ -244,11 +244,11 @@ Endpoint: `api/top-langs?username=anuraghazra`
 你通常无法将图片靠边显示。为此，您可以使用以下方法：
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/richarddillman/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/richarddillman/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=convoychat" />
 </a>
 ```
 
@@ -257,9 +257,9 @@ Endpoint: `api/top-langs?username=anuraghazra`
 因为 GitHub 的 API 每个小时只允许 5 千次请求，我的 `https://github-readme-stats.vercel.app/api` 很有可能会触发限制
 如果你将其托管在自己的 Vercel 服务器上，那么你就不必为此担心。点击 deploy 按钮来开始你的部署！
 
-注意: 从 [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) 开始，我们应该能够处理超过 5 千 的请求，并且不会出现宕机问题 :D
+注意: 从 [#58](https://github.com/richarddillman/github-readme-stats/pull/58) 开始，我们应该能够处理超过 5 千 的请求，并且不会出现宕机问题 :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/richarddillman/github-readme-stats)
 
 <details>
  <summary>设置 Vercel 的指导</summary>
@@ -290,7 +290,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 
 - 在你的 README 中使用 github-readme-stats 时，链接指向会这里 :D
 - Star 并 分享这个项目 :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - 你可以通过 PayPal 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶。:tea:
+- [![paypal.me/richarddillman](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/richarddillman) - 你可以通过 PayPal 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶。:tea:
 
 谢谢！ :heart:
 

@@ -7,7 +7,7 @@ With inbuilt themes you can customize the look of the card without doing any man
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richarddillman&theme=dark&show_icons=true)
 ```
 
 ## Stats
@@ -41,58 +41,58 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `solarized-dark` ![solarized-dark][solarized-dark_repo] | `solarized-light` ![solarized-light][solarized-light_repo] | [Add your theme][add-theme] |
 
 
-[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
-[default_repocard]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
-[dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
-[radical]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
-[merko]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
-[gruvbox]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
-[tokyonight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
-[onedark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark
-[cobalt]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
-[synthwave]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave
-[highcontrast]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast
-[dracula]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
-[prussian]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian
-[monokai]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai
-[vue]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue
-[shades-of-purple]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple
-[nightowl]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
-[buefy]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
-[blue-green]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
-[algolia]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia
-[great-gatsby]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby
-[bear]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear
-[solarized-dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-dark
-[solarized-light]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-light
+[default]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[default_repocard]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
+[dark]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+[radical]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
+[merko]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
+[gruvbox]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
+[tokyonight]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
+[onedark]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark
+[cobalt]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
+[synthwave]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave
+[highcontrast]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast
+[dracula]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
+[prussian]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian
+[monokai]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai
+[vue]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue
+[shades-of-purple]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple
+[nightowl]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
+[buefy]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
+[blue-green]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
+[algolia]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia
+[great-gatsby]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby
+[bear]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear
+[solarized-dark]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-dark
+[solarized-light]: https://github-readme-stats.vercel.app/api?username=richarddillman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-light
 
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
-[default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
-[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dark
-[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=radical
-[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=merko
-[gruvbox_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox
-[tokyonight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight
-[onedark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=onedark
-[cobalt_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=cobalt
-[synthwave_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=synthwave
-[highcontrast_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
-[dracula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dracula
-[prussian_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=prussian
-[monokai_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=monokai
-[vue_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=vue
-[shades-of-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shades-of-purple
-[nightowl_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=nightowl
-[buefy_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=buefy
-[blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
-[algolia_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=algolia
-[great-gatsby_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=great-gatsby
-[bear_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=bear
-[solarized-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=solarized-dark
-[solarized-light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=solarized-light
+[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=default
+[default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
+[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=dark
+[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=radical
+[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=merko
+[gruvbox_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox
+[tokyonight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight
+[onedark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=onedark
+[cobalt_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=cobalt
+[synthwave_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=synthwave
+[highcontrast_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
+[dracula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=dracula
+[prussian_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=prussian
+[monokai_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=monokai
+[vue_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=vue
+[shades-of-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=shades-of-purple
+[nightowl_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=nightowl
+[buefy_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=buefy
+[blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
+[algolia_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=algolia
+[great-gatsby_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=great-gatsby
+[bear_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=bear
+[solarized-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=solarized-dark
+[solarized-light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=richarddillman&repo=github-readme-stats&cache_seconds=86400&theme=solarized-light
 
 
-[add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
+[add-theme]: https://github.com/richarddillman/github-readme-stats/edit/master/themes/index.js
 
 Wanted to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
